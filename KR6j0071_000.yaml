@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0071/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 十八契印
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0900.xml
+    old_id: T18n0900
+hash: sha256:432b5384d73dedad13285dc4e255fa2a9158ee5cb04fa39f4f9529f2a0c30fa7
